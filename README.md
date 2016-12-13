@@ -12,7 +12,9 @@ This is a test for learning git.
  +and a last one+
  
  ** and a subtitle
+ 
  text
+ 
  *** and a subsubtitle
  more text
  
